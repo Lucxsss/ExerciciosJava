@@ -28,7 +28,7 @@ dias = leia. nextInt();
 
 		total = ((anos*365)+(meses*30)+dias);
 		
-		System.out.println("Você está vivo faz "  + total +  " dias! " );	
+		System.out.println("Voce esta vivo faz "  + total +  " dias! " );	
 	}
 
 }
